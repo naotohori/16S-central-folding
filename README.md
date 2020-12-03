@@ -7,7 +7,7 @@ See `src/run_sample.sh` to run the program.  The code was entirely written by Dr
 
 
 ### Supplementary Data
-There are two types of data stored in `data/`.
+The supplemental dataset is available at https://doi.org/10.5281/zenodo.4304537
 
 In a subdirectory `ContactMgConcentrations/`, numerical tables of <i>contact Mg concentrations</i> (See Eq. 1 in the paper for definition) are stored. 
 Each filename indicates the bulk Mg concentration of the simulations. 
