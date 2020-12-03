@@ -1,5 +1,7 @@
 # 16S-central-folding
 
+This is Supplementary Data for an article "Shape changes and cooperativity in the folding of central domain of the 16S ribosomal RNA" by Naoto Hori, Natalia A. Denesyuk, and D. Thirumalai.
+
 ### Simulation code
 The source code for the simulation is stored in `src/` with all the necessary parameters and coordinate files.
 To compile, use a standard c++ compiler. There is no dependent library etc.
