@@ -1,0 +1,17 @@
+dcd_frame_extract_as_movie.py ../dcd/cM0.0000.dcd 0 10000000 200 ../MDcode/pdb/16SCD.cg.rna.pdb cM0.0000.movie
+dcd_frame_extract_as_movie.py ../dcd/cM0.0001.dcd 0 10000000 200 ../MDcode/pdb/16SCD.cg.rna.pdb cM0.0001.movie
+dcd_frame_extract_as_movie.py ../dcd/cM0.0002.dcd 0 10000000 200 ../MDcode/pdb/16SCD.cg.rna.pdb cM0.0002.movie
+dcd_frame_extract_as_movie.py ../dcd/cM0.0004.dcd 0 10000000 200 ../MDcode/pdb/16SCD.cg.rna.pdb cM0.0004.movie
+dcd_frame_extract_as_movie.py ../dcd/cM0.0006.dcd 0 10000000 200 ../MDcode/pdb/16SCD.cg.rna.pdb cM0.0006.movie
+dcd_frame_extract_as_movie.py ../dcd/cM0.0008.dcd 0 10000000 200 ../MDcode/pdb/16SCD.cg.rna.pdb cM0.0008.movie
+dcd_frame_extract_as_movie.py ../dcd/cM0.0010.dcd 0 10000000 200 ../MDcode/pdb/16SCD.cg.rna.pdb cM0.0010.movie
+dcd_frame_extract_as_movie.py ../dcd/cM0.0012.dcd 0 10000000 200 ../MDcode/pdb/16SCD.cg.rna.pdb cM0.0012.movie
+dcd_frame_extract_as_movie.py ../dcd/cM0.0015.dcd 0 10000000 200 ../MDcode/pdb/16SCD.cg.rna.pdb cM0.0015.movie
+dcd_frame_extract_as_movie.py ../dcd/cM0.0020.dcd 0 10000000 200 ../MDcode/pdb/16SCD.cg.rna.pdb cM0.0020.movie
+dcd_frame_extract_as_movie.py ../dcd/cM0.0025.dcd 0 10000000 200 ../MDcode/pdb/16SCD.cg.rna.pdb cM0.0025.movie
+dcd_frame_extract_as_movie.py ../dcd/cM0.0030.dcd 0 10000000 200 ../MDcode/pdb/16SCD.cg.rna.pdb cM0.0030.movie
+dcd_frame_extract_as_movie.py ../dcd/cM0.0040.dcd 0 10000000 200 ../MDcode/pdb/16SCD.cg.rna.pdb cM0.0040.movie
+dcd_frame_extract_as_movie.py ../dcd/cM0.0050.dcd 0 10000000 200 ../MDcode/pdb/16SCD.cg.rna.pdb cM0.0050.movie
+dcd_frame_extract_as_movie.py ../dcd/cM0.0100.dcd 0 10000000 200 ../MDcode/pdb/16SCD.cg.rna.pdb cM0.0100.movie
+dcd_frame_extract_as_movie.py ../dcd/cM0.0200.dcd 0 10000000 200 ../MDcode/pdb/16SCD.cg.rna.pdb cM0.0200.movie
+dcd_frame_extract_as_movie.py ../dcd/cM0.0300.dcd 0 10000000 200 ../MDcode/pdb/16SCD.cg.rna.pdb cM0.0300.movie

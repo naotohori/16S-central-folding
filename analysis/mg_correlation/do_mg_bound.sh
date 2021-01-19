@@ -1,0 +1,17 @@
+./mg_bound.exe ../dcd/cM0.0000.dcd ../make_ninfo/16SCD.cM0.0000.psf 350.0 4.4  cM0.0000.mg_bound_4.4
+./mg_bound.exe ../dcd/cM0.0001.dcd ../make_ninfo/16SCD.cM0.0001.psf 350.0 4.4  cM0.0001.mg_bound_4.4
+./mg_bound.exe ../dcd/cM0.0002.dcd ../make_ninfo/16SCD.cM0.0002.psf 350.0 4.4  cM0.0002.mg_bound_4.4
+./mg_bound.exe ../dcd/cM0.0004.dcd ../make_ninfo/16SCD.cM0.0004.psf 350.0 4.4  cM0.0004.mg_bound_4.4
+./mg_bound.exe ../dcd/cM0.0006.dcd ../make_ninfo/16SCD.cM0.0006.psf 350.0 4.4  cM0.0006.mg_bound_4.4
+./mg_bound.exe ../dcd/cM0.0008.dcd ../make_ninfo/16SCD.cM0.0008.psf 350.0 4.4  cM0.0008.mg_bound_4.4
+./mg_bound.exe ../dcd/cM0.0010.dcd ../make_ninfo/16SCD.cM0.0010.psf 350.0 4.4  cM0.0010.mg_bound_4.4
+./mg_bound.exe ../dcd/cM0.0012.dcd ../make_ninfo/16SCD.cM0.0012.psf 350.0 4.4  cM0.0012.mg_bound_4.4
+./mg_bound.exe ../dcd/cM0.0015.dcd ../make_ninfo/16SCD.cM0.0015.psf 350.0 4.4  cM0.0015.mg_bound_4.4
+./mg_bound.exe ../dcd/cM0.0020.dcd ../make_ninfo/16SCD.cM0.0020.psf 350.0 4.4  cM0.0020.mg_bound_4.4
+./mg_bound.exe ../dcd/cM0.0025.dcd ../make_ninfo/16SCD.cM0.0025.psf 350.0 4.4  cM0.0025.mg_bound_4.4
+./mg_bound.exe ../dcd/cM0.0030.dcd ../make_ninfo/16SCD.cM0.0030.psf 350.0 4.4  cM0.0030.mg_bound_4.4
+./mg_bound.exe ../dcd/cM0.0040.dcd ../make_ninfo/16SCD.cM0.0040.psf 350.0 4.4  cM0.0040.mg_bound_4.4
+./mg_bound.exe ../dcd/cM0.0050.dcd ../make_ninfo/16SCD.cM0.0050.psf 350.0 4.4  cM0.0050.mg_bound_4.4
+./mg_bound.exe ../dcd/cM0.0100.dcd ../make_ninfo/16SCD.cM0.0100.psf 350.0 4.4  cM0.0100.mg_bound_4.4
+./mg_bound.exe ../dcd/cM0.0200.dcd ../make_ninfo/16SCD.cM0.0200.psf 350.0 4.4  cM0.0200.mg_bound_4.4
+./mg_bound.exe ../dcd/cM0.0300.dcd ../make_ninfo/16SCD.cM0.0300.psf 350.0 4.4  cM0.0300.mg_bound_4.4
