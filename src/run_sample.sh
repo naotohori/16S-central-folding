@@ -1,6 +1,6 @@
 # To run the program, give arguments as follows:
 
-./a.out -D 0.850 -E 3.975 -d 6.5 -T 0.615 -c 0.005 -f 0.050 -s 1
+./a.out -D0.850 -E3.975 -d6.5 -T0.615 -c0.005 -f0.050 -s1
 
 ## Values for -D, -E, -d are fixed parameters in the force field. Do not change.
 ## -T is for temperature in kT unit.
